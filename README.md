@@ -1,22 +1,18 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
-
-### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
-
-### How to submit your code for review:
-
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
-
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Tic-Tac-Toe
+A classic Tic-Tac-Toe game created for two players, powered entirely by front-end technologies. This project is a simple, interactive application that can be played in any modern web browser.
+### Features
+Interactive 3x3 Grid: Click on any empty cell to make a move.
+Turn-based Gameplay: Alternates between Player 'X' and Player 'O' for each turn.
+Win and Draw Detection: Automatically checks for a winner or a draw and displays the result.
+### How to play
+Open the Game: Open the index.html file in your preferred web browser.
+Make a Move: Click an empty cell on the grid to place your mark ('X' or 'O').
+Alternate Turns: The game will automatically switch turns between the two players.
+Watch the Outcome: The game ends when a player gets three marks in a row (horizontally, vertically, or diagonally) or all cells are filled, resulting in a draw.
+Play Again: Click the "Restart" button to begin a new game.
+### Technologies
+HTML: Provides the basic structure of the game board and user interface.
+CSS: Used for styling the game, including the grid layout and visual cues for game events.
+JavaScript: Manages the game logic, including turn-taking, win condition checks, and updating the game state.
+### How to View:
+Download or clone this repo. Open index.html in your browser. Click the link on the right under About to see the live demo.
