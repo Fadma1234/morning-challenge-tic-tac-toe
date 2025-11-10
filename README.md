@@ -10,7 +10,7 @@ A classic Tic-Tac-Toe game created for two players, powered entirely by front-en
   
 - JavaScript
 
-- node server
+  
 ### Live Demo
 Click the link on the right under About to see the live demo.
 
